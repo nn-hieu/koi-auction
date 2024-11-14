@@ -16,3 +16,6 @@ Koi Auction is an online platform that brings the excitement of koi fish auction
 - **Back-end**: Java Spring Boot
 - **Database**: PostgreSQL
 - **3rd-party service**: VNPay wallet
+
+## Demo
+[![Demo Koi-auction](https://img.youtube.com/vi/6oliDm7iuI0/maxresdefault.jpg)](https://youtu.be/6oliDm7iuI0)
